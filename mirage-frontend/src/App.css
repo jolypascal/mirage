@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 25 14:12:39 2025
+
+@author: User
+"""
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+input {
+  padding: 10px;
+  width: 300px;
+  margin: 10px;
+}
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:disabled {
+  background-color: #cccccc;
+}
